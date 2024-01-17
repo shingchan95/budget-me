@@ -65,9 +65,9 @@ Secure your data with Touch ID/Face ID
 
 ## Screenshots
 
-![alt Home](/assets/screenshot/Simulator-Screenshot-iPhone-15-Home)
-![alt Transaction Modal](/assets/screenshot/Simulator-Screenshot-iPhone-15-transaction-modal)
-![alt Setting](/assets/screenshot/Simulator-Screenshot-iPhone-15-setting)
+![alt Home](./assets/screenshot/Simulator-Screenshot-iPhone-15-Home.png)
+![alt Transaction Modal](./assets/screenshot/Simulator-Screenshot-iPhone-15-transaction-modal.png)
+![alt Setting](./assets/screenshot/Simulator-Screenshot-iPhone-15-setting.png)
 
 ## Contributing
 
